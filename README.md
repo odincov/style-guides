@@ -4,6 +4,10 @@
 * [NY Times - Objective C Style Guide](https://github.com/NYTimes/objective-c-style-guide) - The Objective-C Style Guide used by The New York Times
 * [Google - Objective-C Style Guide](http://google-styleguide.googlecode.com/svn/trunk/objcguide.xml) - The Objective-C Style Guide used by Google
 
+### CSS
+
+*[Tim Hartmann's SCSS Style Guide](https://github.com/timhartmann/Scss-Styleguide)
+
 ### Javascript
 
 * [Airbnb - Javascript Style Guide](https://github.com/airbnb/javascript)
