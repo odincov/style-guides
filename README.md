@@ -6,7 +6,7 @@
 
 ### CSS
 
-*[Tim Hartmann's SCSS Style Guide](https://github.com/timhartmann/Scss-Styleguide)
+* [Tim Hartmann's SCSS Style Guide](https://github.com/timhartmann/Scss-Styleguide)
 
 ### Javascript
 
