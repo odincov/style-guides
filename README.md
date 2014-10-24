@@ -11,3 +11,4 @@
 * [Todd Motto - AngularJS Style Guide](https://github.com/toddmotto/angularjs-styleguide) - Opinionated AngularJS Style Guide for teams by [@toddmotto](//twitter.com/toddmotto)
 * [jQuery Core Style Guide] (http://contribute.jquery.org/style-guide/js/)
 * [Crock's Code Conventions For JavaScript ] (http://javascript.crockford.com/code.html)
+* [Felix Geisendörfer's Style Guide](https://github.com/felixge/node-style-guide)
