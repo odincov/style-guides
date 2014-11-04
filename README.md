@@ -16,3 +16,4 @@
 * [jQuery Core Style Guide] (http://contribute.jquery.org/style-guide/js/)
 * [Crock's Code Conventions For JavaScript ] (http://javascript.crockford.com/code.html)
 * [Felix Geisendörfer's Style Guide](https://github.com/felixge/node-style-guide)
+* [ExactTarget - Javascript Style Guide](https://github.com/ExactTarget/javascript)
